@@ -1,5 +1,8 @@
 # CherryApp
 
+This is a companion project for a tutorial in RomanJustCodes' YouTube channel about Progressive web apps in Angular - making them look like native mobile apps. You can watch the video [here](https://youtu.be/WgdUGwTE1XU). 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0-next.2.
 
 ## Development server
